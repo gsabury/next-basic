@@ -10,7 +10,7 @@ export default function Home() {
         <meta name="keywords" content="ninjas" />
       </Head>
       <div>
-        <h1 className={styles.title}>Home Page</h1>
+        <h1 className={styles.title}>Home Page Edited</h1>
         <p className={styles.text}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit.</p>
         <p className={styles.text}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit.</p>
         <Link href="/ninjas/" className={styles.btn}>
